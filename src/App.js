@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div>
+      <div className='header'>
         <h1>Flipgame</h1>
       </div>
       <div>
